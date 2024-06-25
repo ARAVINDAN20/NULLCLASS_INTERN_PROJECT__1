@@ -7,7 +7,7 @@ from tensorflow.keras.models import load_model
 from tensorflow.keras.optimizers import Adam
 
 # Load the trained model without the optimizer
-model = load_model('E:\\Emotion Detection\\pets_detection.keras', compile=False)
+model = load_model('pets_detection.keras', compile=False)
 
 # Recompile the model
 model.compile(optimizer=Adam(), loss='sparse_categorical_crossentropy', metrics=['accuracy'])
