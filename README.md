@@ -40,6 +40,9 @@ Open and run `animal_emotion-detection.ipynb` notebook to train the model and sa
 Train this model with this data set link https://www.kaggle.com/datasets/anshtanwar/pets-facial-expression-dataset
 use kaggle notebook to train
 
+## Download the pre-trained models from the provided links and place them in the appropriate directories:
+[pets_detection.keras] https://drive.google.com/file/d/1cFAbG8Oyb8_PDprmtaiFAQgqWZDwOQfc/view?usp=sharing
+
 ### Directory Structure
 
 Ensure your project directory looks something like this after training the model:
