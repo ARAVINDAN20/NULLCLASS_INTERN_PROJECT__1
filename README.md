@@ -41,7 +41,7 @@ Train this model with this data set link https://www.kaggle.com/datasets/anshtan
 use kaggle notebook to train
 
 ## Download the pre-trained models from the provided links and place them in the appropriate directories:
-[pets_detection.keras] https://drive.google.com/file/d/1cFAbG8Oyb8_PDprmtaiFAQgqWZDwOQfc/view?usp=sharing
+[pets_detection.keras](https://drive.google.com/file/d/1cFAbG8Oyb8_PDprmtaiFAQgqWZDwOQfc/view?usp=sharing)
 
 ### Directory Structure
 
