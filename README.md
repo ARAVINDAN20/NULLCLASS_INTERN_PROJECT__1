@@ -37,6 +37,8 @@ pip install tkinter Pillow numpy opencv-python tensorflow
 Before running the GUI application, ensure you have trained the model to generate `pets_detection.keras`.
 
 Open and run `animal_emotion-detection.ipynb` notebook to train the model and save `pets_detection.keras`.
+Train this model with this data set link https://www.kaggle.com/datasets/anshtanwar/pets-facial-expression-dataset
+use kaggle notebook to train
 
 ### Directory Structure
 
