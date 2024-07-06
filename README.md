@@ -6,8 +6,8 @@ This Python application uses a trained deep learning model to classify emotions 
 ## Features
 ![image](https://github.com/ARAVINDAN20/NULLCLASS_INTERN_PROJECT__1/assets/116174602/6df6d2e4-a37f-4e34-b648-efec0fc12128)
 ![image](https://github.com/ARAVINDAN20/NULLCLASS_INTERN_PROJECT__1/assets/116174602/c0de048a-2989-4823-87c3-95705cc75e06)
-
 ![image](https://github.com/ARAVINDAN20/NULLCLASS_INTERN_PROJECT__1/assets/116174602/61e010e6-25b6-4a57-957d-bafbda263fb3)
+
 - **Upload Image**: Allows users to select an animal image for emotion classification.
 - **Detect Emotion**: Performs emotion classification on the uploaded image.
 - **Display Result**: Shows the predicted emotion of the animal.
