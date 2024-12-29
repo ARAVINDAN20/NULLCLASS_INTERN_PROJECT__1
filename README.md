@@ -1,4 +1,6 @@
 # NULLCLASS_INTERN_PROJECT__1
+![image](https://github.com/user-attachments/assets/176207ca-37a8-4e33-9fcf-e2e61b8b25c7)
+
 # Animal Emotion Classifier
 
 This Python application uses a trained deep learning model to classify emotions (Angry, Sad, Happy) of animals from uploaded images. It provides a GUI interface built with Tkinter for easy interaction.
